@@ -1,0 +1,11 @@
+# Base paths
+ctd_base_path: "C:\\Users\\cruz\\Documents\\SENSE\\CTD\\data/"
+subocean_base_path: "C:\\Users\\cruz\\Documents\\SENSE\\SubOcean\\data/"
+
+# Specific data directories
+paths:
+  ctd:
+    level1: "C:\\Users\\cruz\\Documents\\SENSE\\CTD\\data\\Level1\\Forel/"
+  subocean:
+    level2b: "C:\\Users\\cruz\\Documents\\SENSE\\SubOcean\\data\\forel\\Level2\\L2B\\CH4/"
+  metadata: "C:/Users/cruz/Documents/SENSE/subocean-CTD/data/Activity_log_GF24_Full-STNCTDcorr_path.xls"
