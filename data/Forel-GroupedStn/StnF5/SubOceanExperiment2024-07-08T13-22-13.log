@@ -1,0 +1,17 @@
+{
+    "Concentration coefficient calibration 1": "0.123",
+    "Concentration coefficient calibration 2": "27.141",
+    "Default title of the experiment": "SubOceanExperiment2024-07-08T13-22-13",
+    "Description": "",
+    "End time": "2024-07-08 14:24:40",
+    "Hydrostatic Pressure coefficient 1": "400",
+    "Hydrostatic Pressure coefficient 2": "0",
+    "Latitude": "0",
+    "Oxygene parameter for meff": "21",
+    "Place": "",
+    "Salinity parameter for meff": "34",
+    "Start time": "2024-07-08 13:22:13",
+    "Temperature parameter for meff": "25",
+    "Title of the experiment": "SubOceanExperiment2024-07-08T13-22-13",
+    "Type of gas": false
+}
